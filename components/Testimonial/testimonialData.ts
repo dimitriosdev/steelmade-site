@@ -5,34 +5,34 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Ιωάννης Παπαδόπουλος, Ιδιοκτήτης Σπιτιού",
+    designation: "Άψογη Τοποθέτηση Αλουμινένιων Κουφωμάτων",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Η steelmade τοποθέτησε τα αλουμινένια κουφώματα στο σπίτι μου με άψογη ποιότητα και ταχύτητα. Η ομάδα τους ήταν επαγγελματική και φιλική, και απάντησε σε όλες τις ερωτήσεις μου. Συστήνω ανεπιφύλακτα την steelmade για κάθε είδους αλουμινένια κατασκευή.",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Μαρία Παναγιώτου, Επιχειρηματίας",
+    designation: "Σιδερένιες Κατασκευές Υψηλής Αισθητικής",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Η steelmade κατασκεύασε μια σιδερένια σκάλα για το γραφείο μου, η οποία είναι ταυτόχρονα λειτουργική και πανέμορφη. Η ποιότητα της κατασκευής είναι άριστη και ταιριάζει άψογα στο ύφος του χώρου. Ευχαριστώ την steelmade για την εξαιρετική συνεργασία.",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Γιώργος Κωνσταντίνου, Ιδιοκτήτης Καταστήματος",
+    designation: "Αξιόπιστες Πέργκολες για τον Κήπο",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Η steelmade κατασκεύασε μια πέργκολα για τον κήπο του καταστήματός μου, η οποία προσφέρει δροσιά και σκιά στους πελάτες μου. Η πέργκολα είναι ανθεκτική και αισθητικά άψογη, και έχει συμβάλει σημαντικά στην αύξηση της επισκεψιμότητας του καταστήματος. Σας ευχαριστώ!",
   },
   {
     id: 4,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Έλενα Νικολάου, Ιδιοκτήτρια Διαμερίσματος",
+    designation: "Εξαιρετική Εξυπηρέτηση και Άριστη Ποιότητα",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Η steelmade αντικατέστησε τα παλιά μου κουφώματα με νέα αλουμινένια. Η εξυπηρέτηση από την πρώτη στιγμή ήταν άψογη, και η ομάδα τους ήταν πάντα διαθέσιμη να απαντήσει",
   },
 ];
